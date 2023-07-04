@@ -1,4 +1,6 @@
-# leaflet on webxdc
+# moved to <https://codeberg.org/r10s/maps>
+
+## leaflet on webxdc
 
 this little demonstration shows a map using [leaflet](https://leafletjs.com) in a [webxdc](https://webxdc.org) mini app.
 
